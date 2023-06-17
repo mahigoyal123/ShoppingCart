@@ -1,0 +1,14 @@
+.trs-layout-container{
+  
+} 
+
+.trs-body-container{
+    display: flex;
+}
+
+@media(max-width: 800px)
+{
+    .trs-show-hide{
+        display: none;
+    }
+}

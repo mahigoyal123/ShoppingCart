@@ -1,0 +1,37 @@
+.trs-filter-container {
+  margin-left: 2rem;
+  padding: 1rem;
+  padding-left: 2rem;
+  width: 14rem;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+  margin-top: 2.6rem;
+  border-radius: 5px;
+  background-color: white;
+}
+
+.trs-checkbox-container {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  margin: 8px; 
+}
+
+.trs-checkbox-container:hover {
+  font-weight: 500;
+}
+
+.trs-checkbox-container input {
+  width: 1.2rem;
+  height: 1.2rem;
+  margin-right: 1rem;
+}
+
+.trs-filter-sub-heading {
+  font-size: 17px;
+  font-weight: 600;
+}
+
+.trs-division{
+    margin-bottom: 1.6rem;
+}
+
